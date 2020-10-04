@@ -1,5 +1,7 @@
 # Python Unit Test Tutorial
 
+[![Run on Repl.it](https://repl.it/badge/github/johnasut/exerPythUnitTest)](https://repl.it/github/johnasut/exerPythUnitTest)
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
